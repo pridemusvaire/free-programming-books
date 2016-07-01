@@ -77,6 +77,7 @@
 
 ### Javascript
 
+* [Podcast] - [Frontend Five](https://frontendfive.codeschool.com)
 * [Podcast] - [5 Minutes of JavaScript](https://fivejs.codeschool.com)
 * [Podcast] - [JavaScript Jabber](https://devchat.tv/js-jabber/)
 * [Podcast] - [The Javascript Show](http://javascriptshow.com)
